@@ -11,7 +11,10 @@ header, footer
     text-align: center;
     padding: 5px;
 }
-
+footer
+{
+    font-family: sans-serif;
+}
 .content
 {
     margin: 0;
@@ -61,6 +64,7 @@ tr,td
 {
     margin-top: 10px;
     display: block;
+    margin-left: auto;
 }
 
 .bottom
